@@ -1,5 +1,5 @@
-https://pin.it/6hU6OPbY1
-Hi 👋 My name is Haven Teklay
+https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHFpMWpmODJ4Ym8yOGp0YXdpNjAxdGc4a3UwaHo3ajdqaGhodnZ3eiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/wlxFEMGYta38RpS1S8/giphy.gif
+Privet 👋 My name is Haven Teklay
 =============================
 
 Web Developer 💻 | App Builder | Backend & Frontend | Docker | Kubernetes
