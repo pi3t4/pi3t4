@@ -26,9 +26,12 @@ I am a web developer and system builder with experience in backend development, 
 
 <p align="left">
   <a href="https://github.com/pi3t4">
-    <img src="https://github-readme-stats.vercel.app/api?username=pi3t4&show_icons=true&count_private=true&title_color=10b981&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true" alt="GitHub Stats" />
+    <img src="https://github-readme-stats.vercel.app/api?username=pi3t4&show_icons=true&theme=tokyonight" />
   </a>
+</p>
+
+<p align="left">
   <a href="https://github.com/pi3t4">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pi3t4&langs_count=10&title_color=10b981&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" alt="Top Languages" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pi3t4&layout=compact&theme=tokyonight" />
   </a>
 </p>
