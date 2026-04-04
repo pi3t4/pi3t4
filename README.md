@@ -1,5 +1,6 @@
-![Coding GIF](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExbHMwdzdmM3ZkMjJ4dXI1djhrOTdqMXEybjF1YXV2MXF5eWtjbHU3cCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/wlxFEMGYta38RpS1S8/giphy.gif)
-
+<p align="center">
+  <img src="https://media.giphy.com/media/wlxFEMGYta38RpS1S8/giphy.gif" width="400" />
+</p>
 Privet 👋 My name is Haven Teklay
 =============================
 
