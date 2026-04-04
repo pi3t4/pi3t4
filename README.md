@@ -21,17 +21,45 @@ I am a web developer and system builder with experience in backend development, 
   <a href="https://discord.com/users/anbesa"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" alt="Discord" /></a>
 </p>
 
-### 📊 Badges
-**My GitHub Stats**
 
-<p align="left">
-  <a href="https://github.com/pi3t4">
-    <img src="https://github-readme-stats.vercel.app/api?username=pi3t4&show_icons=true&theme=tokyonight" />
-  </a>
-</p>
+## 🚀 GitHub Stats & Achievements
 
-<p align="left">
-  <a href="https://github.com/pi3t4">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pi3t4&layout=compact&theme=tokyonight" />
-  </a>
-</p>
+![Profile Views](https://komarev.com/ghpvc/?username=pi3t4&style=flat-square&color=blue)
+
+---
+
+## 🏆 GitHub Trophies
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=pi3t4&theme=darkhub&no-frame=true&margin-w=10)](https://github.com/pi3t4)
+
+---
+
+<div align="center">
+
+<!-- GitHub Stats -->
+<img src="https://github-readme-stats.vercel.app/api?username=pi3t4&show_icons=true&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=33FF33&icon_color=33FF33&text_color=FFFFFF"
+     onerror="this.onerror=null;this.src='https://github-readme-stats-sigma-five.vercel.app/api?username=pi3t4&show_icons=true&theme=github_dark';"
+     width="600" />
+
+</div>
+
+---
+
+<div align="center">
+
+<!-- GitHub Streak -->
+<img src="https://streak-stats.demolab.com?user=pi3t4&theme=dark&hide_border=true&background=0D1117&ring=39D353&fire=39D353&currStreakLabel=39D353&currStreakNum=39D353&sideLabels=C9D1D9&sideNums=C9D1D9&dates=8B949E"
+     width="500" />
+
+</div>
+
+---
+
+<div align="center">
+
+<!-- Top Languages -->
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pi3t4&layout=compact&theme=github_dark&bg_color=0D1117&title_color=33FF33&text_color=33FF33&icon_color=33FF33&langs_count=10&hide_border=true"
+     onerror="this.onerror=null;this.src='https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=pi3t4&layout=compact&theme=github_dark';"
+     width="500" />
+
+</div>
