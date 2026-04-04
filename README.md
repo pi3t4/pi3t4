@@ -1,4 +1,3 @@
-https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHFpMWpmODJ4Ym8yOGp0YXdpNjAxdGc4a3UwaHo3ajdqaGhodnZ3eiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/wlxFEMGYta38RpS1S8/giphy.gif
 <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHFpMWpmODJ4Ym8yOGp0YXdpNjAxdGc4a3UwaHo3ajdqaGhodnZ3eiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/wlxFEMGYta38RpS1S8/giphy.gif" width="580" alt="Coding GIF"/>
 
 
