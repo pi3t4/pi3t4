@@ -3,7 +3,6 @@
 <h1 align="center">Privet <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" height="30px" width="30px"> I'm Haven Teklay</h1>
 =============================
 
-<img src="https://media.giphy.com/media/wlxFEMGYta38RpS1S8/giphy.gif" alt="Banner" width="100%" />
 
 Web Developer 💻 | App Builder | Backend & Frontend | Docker | Kubernetes
 -------------------------------------------------------------------------
@@ -76,8 +75,9 @@ I am a web developer and system builder with experience in backend development, 
 </p>
 
 ## 💬 Quote
-> when the lion gets hungry he eats
+> There is one rule in the jungle: when the lion is hungry, he eats
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/czl9707/gh-space-shooter/main/example.gif" alt="Space shooter contribution graph" />
 </p>
+<img src="https://media.giphy.com/media/wlxFEMGYta38RpS1S8/giphy.gif" alt="Banner" width="100%" />
