@@ -80,4 +80,3 @@ I am a web developer and system builder with experience in backend development, 
 <p align="center">
   <img src="https://raw.githubusercontent.com/czl9707/gh-space-shooter/main/example.gif" alt="Space shooter contribution graph" />
 </p>
-<img src="https://media.giphy.com/media/wlxFEMGYta38RpS1S8/giphy.gif" alt="Banner" width="100%" />
