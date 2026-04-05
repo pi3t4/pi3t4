@@ -1,10 +1,10 @@
+
 <p align="center">
   <img src="https://media.giphy.com/media/wlxFEMGYta38RpS1S8/giphy.gif" width="700" />
 </p>
-****
-Privet 👋 My name is Haven Teklay
-=============================
+
 <h1 align="center">Privet <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" height="30px" width="30px"> I'm Haven Teklay</h1>
+=============================
 
 Web Developer 💻 | App Builder | Backend & Frontend | Docker | Kubernetes
 -------------------------------------------------------------------------
